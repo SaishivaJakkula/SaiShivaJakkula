@@ -21,8 +21,33 @@ Engineering Graduate | Aspiring Data Analyst
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
+ College Major Projects
+Early Prediction of Diabetes (Jan 2025 - May 2025)
+
+ML model using XGBoost & Random Forest to predict diabetes risk early.
+
+Learned data preprocessing, feature engineering, model training, and evaluation.
+
+Mobile Price Prediction (Oct 2024 - Dec 2024)
+
+Built predictive model to estimate mobile prices based on brand, RAM, storage, and specs.
+
+Gained experience in regression techniques, feature selection, and model optimization.
 
 
+🛠️ Skills
+
+Languages & Tools: Python, SQL, HTML, CSS, Power BI, Excel
+Data & ML: NumPy, Pandas, Matplotlib, Seaborn, XGBoost, Random Forest
+Other: AI/ML, Deep Learning, Problem Solving, Communication, Teamwork
+
+📜 Certifications
+
+Python Zero to Hero – Udemy (OOPs, Data Structures, Django)
+
+Software Engineering – IBM (Coursera) (SDLC, Agile, Git, Testing, Deployment)
+
+Machine Learning – NPTEL (SWAYAM) (Regression, Classification, Clustering)
 
 
 
