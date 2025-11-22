@@ -1,54 +1,86 @@
-SaiShivaJakkula
+# 👋 Hi, I'm Sai Shiva Jakkula  
+### Engineering Graduate | Aspiring Data Analyst  
+Learning SQL, Python, Power BI & Data Visualization  
 
-Engineering Graduate | Aspiring Data Analyst | Learning SQL, Python, Power BI & Data Visualization
+---
 
-Hi 👋, I'm Sai Shiva Jakkula
-Engineering Graduate | Aspiring Data Analyst
+## 🌱 About Me  
+I am an Engineering graduate passionate about Data Analytics and turning raw data into meaningful insights.  
+I’m learning SQL, Python, Excel, Power BI, Machine Learning, NumPy, Matplotlib, and Seaborn.  
+My goal is to become a strong Data Analyst who can solve real-world problems using data.
 
-🌱 I’m currently learning SQL, Python, Excel, Power BI, Machine Learning, NumPy, Matplotlib & Seaborn
+📫 Reach me at: **www.linkedin.com/in/saishiva-jakkula-**
 
-📫 How to reach me:www.linkedin.com/in/saishiva-jakkula-
-### 🖥️ Programming & Data Analysis
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+---
 
-### 📊 Data Visualization
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0A0A0A?style=for-the-badge)](https://seaborn.pydata.org/)
+# 🚀 Major Projects 
 
-### 💾 Database
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+## 📌 1. **Zomato Restaurant EDA Project (Python)**  
+Analyzed Zomato restaurant data using Python.  
+Cleaned messy data, handled missing values, explored ratings, cost patterns, cuisine popularity, and online-order impact.  
+Created visualizations like bar charts, scatter plots, histograms & heatmaps to uncover customer behavior.  
+**Skills:** Python, Pandas, Matplotlib, Seaborn, Data Cleaning, EDA  
 
+---
 
- College Major Projects
-Early Prediction of Diabetes (Jan 2025 - May 2025)
+## 📌 2. **Top Rated Movies – Web Scraping & EDA**  
+Scraped movie data (title, rating, popularity, release date, description) using web scraping tools.  
+Cleaned and structured the extracted data, analyzed rating trends, vote counts, popularity, and language distribution.  
+Created visualizations to understand what makes a top-rated movie.  
+**Skills:** Web Scraping, Data Cleaning, Visualization, Pandas  
 
-ML model using XGBoost & Random Forest to predict diabetes risk early.
+---
 
-Learned data preprocessing, feature engineering, model training, and evaluation.
+## 📌 3. **Early Prediction of Diabetes (Jan 2025 – May 2025)**  
+Built ML model using XGBoost & Random Forest to predict diabetes risk.  
+Learned preprocessing, feature engineering, model tuning & evaluation.  
+**Skills:** ML, Feature Engineering, Classification, XGBoost  
 
-Mobile Price Prediction (Oct 2024 - Dec 2024)
+---
 
-Built predictive model to estimate mobile prices based on brand, RAM, storage, and specs.
+## 📌 4. **Mobile Price Prediction (Oct 2024 – Dec 2024)**  
+Created regression model to predict mobile prices based on brand, RAM, storage & specs.  
+Performed feature selection, scaling, model comparison & optimization.  
+**Skills:** Regression, EDA, Pandas, Scikit-Learn  
 
-Gained experience in regression techniques, feature selection, and model optimization.
+---
 
+# 🧹 Web Scraping + Cleaning Huge Data (Simple English)
 
-🛠️ Skills
+Web scraping helps us collect information automatically from websites.  
+But raw scraped data is usually messy — it may have missing values, broken text, symbols, duplicates, and inconsistent formats.  
 
-Languages & Tools: Python, SQL, HTML, CSS, Power BI, Excel
-Data & ML: NumPy, Pandas, Matplotlib, Seaborn, XGBoost, Random Forest
-Other: AI/ML, Deep Learning, Problem Solving, Communication, Teamwork
+So I follow these simple steps:  
 
-📜 Certifications
+**✔ Step 1: Extract the Data**  
+Use Python libraries like `requests`, `BeautifulSoup`, or APIs to pull information such as titles, ratings, and descriptions.
 
-Python Zero to Hero – Udemy (OOPs, Data Structures, Django)
+**✔ Step 2: Clean the Data**  
+- Remove duplicates  
+- Fix missing values  
+- Convert data types (dates, numbers)  
+- Clean text  
+- Standardize column names  
 
-Software Engineering – IBM (Coursera) (SDLC, Agile, Git, Testing, Deployment)
+**✔ Step 3: Make It Ready for EDA**  
+After cleaning, the dataset becomes neat and ready for:  
+- Charts  
+- Trend analysis  
+- Insights  
+- Machine learning  
 
-Machine Learning – NPTEL (SWAYAM) (Regression, Classification, Clustering)
+This helps turn huge, unstructured data into something meaningful and easy to understand.
 
+## 🛠️ Tech Stack
 
+### Languages & Analytics
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### Visualization Tools
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-5C92D1?style=for-the-badge)
 
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
