@@ -56,7 +56,7 @@ Performed feature selection, scaling, model comparison & optimization.
 
 ---
 
-# 🧹 Web Scraping + Cleaning Huge Data (Simple English)
+# 🧹 Web Scraping + Cleaning Huge Data 
 
 Web scraping helps us collect information automatically from websites.  
 But raw scraped data is usually messy — it may have missing values, broken text, symbols, duplicates, and inconsistent formats.  
