@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Sai Shiva Jakkula  
-### Engineering Graduate | Aspiring Data Analyst  
+### Engineering Graduate | Aspiring Data Analyst
+
 Learning SQL, Python, Power BI & Data Visualization  
-🎓 B.Tech CSE | Malla Reddy University | CGPA: 8.76
+
+🎓 B.Tech (CSE), Malla Reddy University — CGPA: 8.76
+
+📍 Hyderabad, India
+
 ---
 
 ## 🌱 About Me  
