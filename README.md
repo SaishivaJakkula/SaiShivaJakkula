@@ -1,101 +1,73 @@
-# 👋 Hi, I'm Sai Shiva Jakkula  
-### Engineering Graduate | Aspiring Data Analyst
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Shiva+Jakkula!;Data+Analyst+%7C+Python+Developer+%7C+Tech+Learner">
+</p>
 
-Learning SQL, Python, Power BI & Data Visualization  
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 B.Tech (CSE), Malla Reddy University — CGPA: 8.76
-
-📍 Hyderabad, India
-
----
-
-## 🌱 About Me  
-I am an Engineering graduate passionate about Data Analytics and turning raw data into meaningful insights.  
-I’m learning SQL, Python, Excel, Power BI, Machine Learning, NumPy, Matplotlib, and Seaborn.  
-My goal is to become a strong Data Analyst who can solve real-world problems using data.
-
-📫 Reach me at: **www.linkedin.com/in/saishiva-jakkula-**
-
----
-## 🚀 Tools & Technologies I Work With
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-5C92D1?style=for-the-badge)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-# 🚀 Major Projects 
-
-## 📌 1. **Zomato Restaurant EDA Project (Python)**  
-Analyzed Zomato restaurant data using Python.  
-Cleaned messy data, handled missing values, explored ratings, cost patterns, cuisine popularity, and online-order impact.  
-Created visualizations like bar charts, scatter plots, histograms & heatmaps to uncover customer behavior.  
-**Skills:** Python, Pandas, Matplotlib, Seaborn, Data Cleaning, EDA  
+### 👨‍💻 About Me
+- 🎓 I’m a **Computer Science Engineering Graduate** from India (CGPA: **8.76**)  
+- 📊 Aspiring **Data Analyst** learning every day  
+- 🛠️ Skills: `SQL`, `Python`, `Power BI`, `Pandas`, `NumPy`, `EDA`, `ML Basics`  
+- 📚 I work on real datasets: Zomato, Movies, Diabetes, Mobile Prices  
+- 📩 Reach me: **www.linkedin.com/in/saishiva-jakkula-**
 
 ---
 
-## 📌 2. **Top Rated Movies – Web Scraping & EDA**  
-Scraped movie data (title, rating, popularity, release date, description) using web scraping tools.  
-Cleaned and structured the extracted data, analyzed rating trends, vote counts, popularity, and language distribution.  
-Created visualizations to understand what makes a top-rated movie.  
-**Skills:** Web Scraping, Data Cleaning, Visualization, Pandas  
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/saishiva-jakkula-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:saishivajakkula@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📌 3. **Early Prediction of Diabetes (Jan 2025 – May 2025)**  
-Built ML model using XGBoost & Random Forest to predict diabetes risk.  
-Learned preprocessing, feature engineering, model tuning & evaluation.  
-**Skills:** ML, Feature Engineering, Classification, XGBoost  
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" height="40" alt="Seaborn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook"/>
+</p>
 
 ---
 
-## 📌 4. **Mobile Price Prediction (Oct 2024 – Dec 2024)**  
-Created regression model to predict mobile prices based on brand, RAM, storage & specs.  
-Performed feature selection, scaling, model comparison & optimization.  
-**Skills:** Regression, EDA, Pandas, Scikit-Learn  
+### 📌 Projects I’ve Worked On  
+
+#### 🍽️ **Zomato Restaurant EDA (Python)**
+- Cleaned & analyzed restaurant data  
+- Found insights on cuisines, ratings, cost, online orders  
+- Visualized patterns using `Pandas`, `Seaborn`, `Matplotlib`  
+
+#### 🎬 **Top Rated Movies – Web Scraping + EDA**
+- Scraped movie details (title, rating, popularity, release date)  
+- Cleaned messy text + made visuals  
+- Explored rating, language & popularity trends  
+
+#### 🩺 **Diabetes Prediction (ML)**
+- Built predictive model using **XGBoost & Random Forest**  
+- Preprocessing + feature engineering  
+- Achieved strong evaluation metrics  
+
+#### 📱 **Mobile Price Prediction (Regression)**
+- Applied regression models to predict smartphone prices  
+- Did EDA + feature scaling + model comparison
 
 ---
 
-# 🧹 Web Scraping + Cleaning Huge Data 
+### 💬 Fun Fact
+> _“Great dashboards aren’t made with charts — they’re made with clean thinking.”_  
+> That’s why I focus on **clean data → clear insights → strong storytelling**.
 
-Web scraping helps us collect information automatically from websites.  
-But raw scraped data is usually messy — it may have missing values, broken text, symbols, duplicates, and inconsistent formats.  
+---
 
-So I follow these simple steps:  
-
-**✔ Step 1: Extract the Data**  
-Use Python libraries like `requests`, `BeautifulSoup`, or APIs to pull information such as titles, ratings, and descriptions.
-
-**✔ Step 2: Clean the Data**  
-- Remove duplicates  
-- Fix missing values  
-- Convert data types (dates, numbers)  
-- Clean text  
-- Standardize column names  
-
-**✔ Step 3: Make It Ready for EDA**  
-After cleaning, the dataset becomes neat and ready for:  
-- Charts  
-- Trend analysis  
-- Insights  
-- Machine learning  
-
-This helps turn huge, unstructured data into something meaningful and easy to understand.
-
-[![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![VSCode](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
-[![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/workbench/)
-[![Oracle SQL Developer](https://img.shields.io/badge/-Oracle_SQL_FDY-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)
-[![MongoDB Compass](https://img.shields.io/badge/-MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/products/compass)
-[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sai-shiva-jakkula&label=Profile+Views&color=blue&style=flat-square" alt="Profile View Count" />
+</p>
