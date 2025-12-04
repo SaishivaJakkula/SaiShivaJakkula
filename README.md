@@ -1,195 +1,105 @@
-<!-- Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Shiva+Jakkula!;Data+Analyst+%7C+Python+Developer+%7C+Tech+Explorer;Turning+Data+Into+Insights+Using+1000%2B+Lines+of+Code">
-</p>
+# 👋 Hi, this is Sai Shiva — Aspiring Data Analyst & Python Developer  
+### Engineering Graduate | Aspiring Data Analyst
 
-<!-- Two Live Images -->
-<p align="center">
-  <img alt="Coding GIF 1" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  <img alt="Coding GIF 2" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-</p>
+Learning SQL, Python, Power BI & Data Visualization  
+
+🎓 B.Tech (CSE), Malla Reddy University — CGPA: 8.76  
+📍 Hyderabad, India  
 
 ---
 
-# 👨‍💻 About Me  
-- 🎓 B.Tech (CSE) Graduate with **8.76 CGPA** from Malla Reddy University  
-- 📊 Passionate Data Analyst skilled in **SQL, Python, Power BI & ML**  
-- 🧠 Worked with **10+ datasets**, built **20+ dashboards**, and coded **5000+ lines**  
-- 🚀 Building strong skills in EDA, ML, Automation & Data Storytelling  
-- 📫 LinkedIn: www.linkedin.com/in/saishiva-jakkula-
+## 🌱 About Me  
+I am an Engineering graduate passionate about Data Analytics and turning raw data into meaningful insights.  
+I’m learning SQL, Python, Excel, Power BI, Machine Learning, NumPy, Matplotlib, and Seaborn.  
+My goal is to become a strong Data Analyst who can solve real-world problems using data.
+
+📫 Reach me at: **www.linkedin.com/in/saishiva-jakkula-**
 
 ---
 
-# 🧰 **All Programming Languages & Tools (Single Line Style)**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,sqlite,mongodb,git,github,vscode,jupyter,pandas,numpy,sklearn,html,css,js,powerbi,tableau,regex,linux,postman&perline=22" />
-</p>
+## 🚀 Tools & Technologies I Work With  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-5C92D1?style=for-the-badge)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-# 🚀 **Projects (Expanded Deeply | Each Bullet = 2 Lines + 2 Numbers Per Line)**
+# 🚀 Major Projects  
+
+## 📌 1. **Zomato Restaurant EDA Project (Python)**  
+- Analyzed Zomato restaurant data using Python.  
+- Cleaned messy data, handled missing values, explored ratings, cost patterns, cuisine popularity, and online-order impact.  
+- Created visualizations like bar charts, scatter plots, histograms & heatmaps to uncover customer behavior.  
+
+**Skills:** Python, Pandas, Matplotlib, Seaborn, Data Cleaning, EDA  
 
 ---
 
-# 🍽️ **1. Zomato Restaurant EDA (Python | 50,000+ Rows)**  
+## 📌 2. **Top Rated Movies – Web Scraping & EDA**  
+- Scraped movie data (title, rating, popularity, release date, description) using web scraping tools.  
+- Cleaned and structured the extracted data, analyzed rating trends, vote counts, popularity, and language distribution.  
+- Created visualizations to understand what makes a top-rated movie.  
 
-### 🔹 **Data Cleaning & Preprocessing**  
-- Cleaned **52,400 rows** and fixed **18,200 missing values** using Pandas pipelines.  
-  Ensured consistent structure across **12 data types** and validated **7 column formats**.
-
-- Removed **3,100 duplicates** and standardized **9 categorical variables** for accuracy.  
-  Converted **4 numerical columns** and normalized **2 rating scales**.
-
-- Processed **11 cuisine categories** and mapped **2,000+ restaurants** to city zones.  
-  Reduced dataset size by **28%** while retaining **98% data quality**.
+**Skills:** Web Scraping, Data Cleaning, Visualization, Pandas  
 
 ---
 
-### 🔹 **Insights & Statistical Analysis**  
-- Analyzed **7 rating distributions** across **14 cuisine groups** using Seaborn.  
-  Observed cost variations of **₹150–₹950** across **6 restaurant tiers**.
+## 📌 3. **Early Prediction of Diabetes (Jan 2025 – May 2025)**  
+- Built ML model using XGBoost & Random Forest to predict diabetes risk.  
+- Learned preprocessing, feature engineering, model tuning & evaluation.  
 
-- Identified **4 peak order time slots** with **22% higher demand**.  
-  Compared price ranges across **5 cities**, noting **40% cost differences**.
-
-- Found online-order impact increasing ratings by **1.8 points** across **8 categories**.  
-  Detected **35% higher frequency** for restaurants with **2+ cuisines**.
+**Skills:** ML, Feature Engineering, Classification, XGBoost  
 
 ---
 
-### 🔹 **Visualizations & Dashboards**  
-- Created **22 plots** including **7 bar charts** and **4 heatmaps** for trends.  
-  Used Seaborn & Matplotlib to design **12 insight-driven visuals**.
+## 📌 4. **Mobile Price Prediction (Oct 2024 – Dec 2024)**  
+- Created regression model to predict mobile prices using brand, RAM, storage & specs.  
+- Performed feature selection, scaling, model comparison & optimization.  
 
-- Enhanced readability using **15 color palettes** and **3 theme formats**.  
-  Exported charts at **1080p resolution** optimized for **2 dashboards**.
-
-- Built a summary dashboard covering **10 KPIs** and **5 key insights**.  
-  Published findings using **3 narrative sections** and **20+ annotations**.
+**Skills:** Regression, EDA, Pandas, Scikit-Learn  
 
 ---
 
----
+# 🧹 Web Scraping + Cleaning Huge Data  
 
-# 🎬 **2. Top Movies – Web Scraping + EDA (1,000+ Pages Scraped)**  
+Web scraping helps us collect information automatically from websites.  
+Raw scraped data is often messy — missing values, broken text, symbols, duplicates, inconsistent formats.  
 
-### 🔹 **Scraping Engine Design**  
-- Scraped **1,200 movie pages** using BeautifulSoup with **0.5 sec delay rate**.  
-  Extracted **6 fields** per movie including rating, votes & popularity.
+### ✔ Step 1: Extract the Data  
+Use Python libraries like `requests`, `BeautifulSoup`, or APIs.
 
-- Collected **8,500 text nodes** and cleaned **3,200 unwanted characters**.  
-  Processed **2 HTML structures** and handled **12 dynamic tags**.
+### ✔ Step 2: Clean the Data  
+- Remove duplicates  
+- Fix missing values  
+- Convert data types  
+- Clean text  
+- Standardize column names  
 
-- Stored data into **4 CSV files**, each containing **300+ rows**.  
-  Automated pipeline handling **5 retry attempts** and **2 error types**.
-
----
-
-### 🔹 **Data Processing & Cleaning**  
-- Removed **920 null values** and standardized **18 column names**.  
-  Converted rating text from **7 formats** into a unified **float scale**.
-
-- Engineered **6 new features** like “rating buckets” and “vote score”.  
-  Cleaned vote counts from **k/M format** into **numeric (1–5,000,000)**.
-
-- Merged **4 datasets**, reducing redundancy by **42%** across **2 tables**.  
-  Final dataset contained **1,150 movies** with **100% valid entries**.
+### ✔ Step 3: Make It Ready for EDA  
+After cleaning, the dataset becomes ready for:  
+- Charts  
+- Trend analysis  
+- Insights  
+- Machine learning  
 
 ---
 
-### 🔹 **Trend Analysis & Visualization**  
-- Analyzed rating vs votes across **5 decades** and **12 genres**.  
-  Found movies between **2010–2020** had **23% higher ratings**.
+## 🛠 Tools I Use  
 
-- Visualized language trends across **9 languages** and **4 popularity levels**.  
-  Identified **2 key factors** influencing ratings: votes & release year.
-
-- Built **17 charts** including **5 line charts** & **3 correlation maps**.  
-  Delivered final insights within **3 dashboards** and **10 metrics**.
-
----
-
----
-
-# 🩺 **3. Diabetes Prediction Using ML (85% Accuracy)**  
-
-### 🔹 **Data Preparation & Feature Engineering**  
-- Cleaned **768 rows** and imputed **120+ missing values**.  
-  Performed scaling on **8 numerical features** using MinMaxScaler.
-
-- Derived **5 new clinical indicators** and normalized **2 skewed features**.  
-  Reduced outliers by **46%** using IQR and z-score thresholds.
-
-- Split data into **70% train** & **30% test** sets for balanced accuracy.  
-  Achieved data consistency across **4 model pipelines**.
-
----
-
-### 🔹 **Model Building**  
-- Trained **4 models**: RF, XGBoost, Logistic, KNN with **20+ hyperparameters**.  
-  Best performance from XGBoost with **85.4% accuracy**.
-
-- Used **5-fold cross-validation** ensuring ± **2.3% variance**.  
-  Optimized depth from **3 → 6** and learning rate from **0.1 → 0.01**.
-
-- Plotted **3 ROC curves** & **5 confusion matrices** for validation.  
-  Evaluated recall at **0.78** and precision at **0.81**.
-
----
-
-### 🔹 **Insights & Reporting**  
-- Identified BP above **80** & glucose above **120** increases risk by **40%**.  
-  BMI between **30–38** showed **22% higher risk** categories.
-
-- Created **8 plots** to visualize correlations between **pregnancies & age**.  
-  Detected **18% false positives** minimized by tuning thresholds.
-
-- Built a final ML dashboard with **7 KPIs** and **3 health categories**.  
-  Model ready for deployment with **2 API structures**.
-
----
-
----
-
-# 📱 **4. Mobile Price Prediction (Regression on 2,000+ Rows)**  
-
-### 🔹 **Data Prep & Feature Scaling**  
-- Cleaned **2,014 rows** and corrected **340 incorrect entries**.  
-  Encoded **14 categorical features** using one-hot encoding.
-
-- Scaled **9 numeric columns** using StandardScaler.  
-  Engineered **4 new features** like RAM-score & CPU-score.
-
-- Reduced noise by **28%** using correlation filters.  
-  Removed **2 redundant columns** improving accuracy by **4.2%**.
-
----
-
-### 🔹 **Modeling & Comparison**  
-- Trained **5 models** including Linear, Ridge, Lasso, RF & XGBoost.  
-  Highest R² of **0.92** achieved using Random Forest.
-
-- Tuned **15 hyperparameters** improving RMSE by **18%**.  
-  Evaluated models using **70/30 split** and **10 metrics**.
-
-- Tested model on **200 unseen entries** with **89% accuracy**.  
-  Exported model in **2 formats** for deployment.
-
----
-
-### 🔹 **Insights & Reporting**  
-- Found RAM increases price by **₹800–₹1200** for every **2 GB**.  
-  Battery capacity above **4,000 mAh** improves rating by **1.5 stars**.
-
-- Visualized trends using **12 charts** with **4 regression lines**.  
-  Identified **6 major specs** affecting price strongly.
-
-- Prepared **2 dashboards** summarizing insights from **20 features**.  
-  Ranked phones from **1–10** based on score models.
-
----
-
----
-
-
-
+[![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)  
+[![VSCode](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
+[![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)  
+[![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/workbench/)  
+[![Oracle SQL Developer](https://img.shields.io/badge/-Oracle_SQL_FDY-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)  
+[![MongoDB Compass](https://img.shields.io/badge/-MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/products/compass)  
+[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)  
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
+[![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
